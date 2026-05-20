@@ -1,5 +1,5 @@
-# Wagih-Soudi
-# Hi there! 👋 I'm Wagih Soudi
+
+ Hi there! 👋 I'm Wagih Soudi
 
  Software Quality Assurance Engineer | Test Automation Enthusiast
 
@@ -31,5 +31,3 @@ Llumen creates a direct path from data to understanding. It unifies context, vis
 
 ---
 
- 🌐 Connect with me
-[![LinkedIn](https://www.linkedin.com/in/wagih-soudi-070233361/?skipRedirect=true)
