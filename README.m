@@ -1,60 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Wagih%20Soudi&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=QA%20Specialist&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+# Wagih Soudi
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=wagihsoudi">
-    <img src="https://komarev.com/ghpvc/?username=wagihsoudi&label=Profile%20views&color=00FFFF&style=flat-square" alt="wagihsoudi's profile views" />
-  </a>
-</p>
+👨‍💻 QA Specialist | 📍 Cairo, Egypt
 
-<img src="https://i.pinimg.com/originals/e2/9c/75/e29c75880a73d8a049c09ceca6eaa666.gif" alt="Banner" width="100%" />
+🔭 Currently working as a **QA Engineer**
+🌱 Learning **Test Automation**, **Playwright**, and **Cypress**
+💡 Passionate about delivering high-quality software through effective testing
+📫 How to reach me: `Wagehmohamedsoudi1@gmail.com`
 
-## 📌 About Me
-- 🔭 Currently working as a QA Engineer
-- 🌱 Learning Test Automation,  Playwright , and  Cypress
-- 💡 Passionate about delivering high-quality software through effective testing
--  🛠️ Manual Testing • Test Case Design** • Bug Reporting**
--  🛠️ Automation Testing: Selenium • Playwright • Cypress
-- 🛠️ Programming: Python • JavaScript
-- Featured Projects:
-- 📌 Llumen : The Decision Interface -Llumen creates a direct path from data to understanding. It unifies context, visualization, and AI so leaders can see what matters, explore it effortlessly, and move with confidence when decisions need to be made.
+---
 
+## GitHub Activity Overview
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=wagihsoudi&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Wagih Soudi's GitHub Trophies" />
-</p>
+🌟 Wagih Soudi's GitHub Stats:
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=wagihsoudi)
 
-## 🛠️ Languages & Tools
+🔝 Top Languages:
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagihsoudi)
 
-</p>
+🏆 GitHub Trophies:
 
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=wagihsoudi)](https://github.com/wagihsoudi)
 
-</p>
+🔥 GitHub Streak:
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/wagih-soudi-070233361/?skipRedirect=true">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>
-  <a href="mailto:wagehmohamedsoudi1@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=wagihsoudi)](https://git.io/streak-stats)
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
+## Projects Overview
 
+🚀 **Featured Projects**:
+- Repository 1
+- Repository 2
+- Repository 3
 
+---
+
+## Self-Introduction
+
+Wagih Soudi is a dedicated QA Specialist based in Cairo, Egypt, currently working at Pixonal. With a strong focus on delivering high-quality software, Wagih actively engages in coding projects on GitHub. Confident in handling various tasks related to software development, their commitment to different repositories showcases a diverse skill set.
+
+Being responsive to the needs of the GitHub community, Wagih contributes to both creating and enhancing existing projects. Their enthusiasm for collaborating and participating in various coding initiatives highlights a versatile coding ability that is always on the lookout for continuous improvement opportunities.
+
+🛠️ **Skills and Interests**:
+- Quality Assurance
+- Software Development
+- Test Automation
+- Collaboration
+- Continuous Learning
+
+📚 **Certifications**:
+- ISTQB Foundation Level from Bisics to certificate ITI Platform
+- Manual Testing training with QAcart
+
+---
+
+## Get in Touch
+
+📧 Email: `Wagehmohamedsoudi1@gmail.com`
+
+--- 
+
+## Connect with Wagih Soudi
+
+🔗 [GitHub](https://github.com/wagihsoudi)
+
+Let's code, collaborate, and create together! 🚀
+
+--- 
+
+Remember, GitHub is not just a platform for code, it's a space for connecting like-minded individuals, sharing knowledge, and growing together. Keep exploring, keep coding, and never stop learning! 🌟
