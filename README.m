@@ -1,74 +1,50 @@
-# Wagih Soudi
-
-👨‍💻 QA Specialist | 📍 Cairo, Egypt
-
-🔭 Currently working as a **QA Engineer**
-🌱 Learning **Test Automation**, **Playwright**, and **Cypress**
-💡 Passionate about delivering high-quality software through effective testing
-📫 How to reach me: `Wagehmohamedsoudi1@gmail.com`
+<h1 align="center">Hi 👋, I'm Wagih Soudi</h1>
+<h3 align="center">QA Specialist | Test Automation Engineer</h3>
 
 ---
 
-## GitHub Activity Overview
-
-🌟 Wagih Soudi's GitHub Stats:
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=wagihsoudi)
-
-🔝 Top Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wagihsoudi)
-
-🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wagihsoudi)](https://github.com/wagihsoudi)
-
-🔥 GitHub Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wagihsoudi)](https://git.io/streak-stats)
+- 🔭 I’m currently working on **Llumen**
+- 🌱 I’m currently learning **ISTQB Foundation Level**
+- 📫 How to reach me: **wagehmohamedsoudi1@gmail.com**
+- 📍 Based in Cairo, Egypt
 
 ---
 
-## Projects Overview
-
-🚀 **Featured Projects**:
-- Repository 1
-- Repository 2
-- Repository 3
-
----
-
-## Self-Introduction
-
-Wagih Soudi is a dedicated QA Specialist based in Cairo, Egypt, currently working at Pixonal. With a strong focus on delivering high-quality software, Wagih actively engages in coding projects on GitHub. Confident in handling various tasks related to software development, their commitment to different repositories showcases a diverse skill set.
-
-Being responsive to the needs of the GitHub community, Wagih contributes to both creating and enhancing existing projects. Their enthusiasm for collaborating and participating in various coding initiatives highlights a versatile coding ability that is always on the lookout for continuous improvement opportunities.
-
-🛠️ **Skills and Interests**:
-- Quality Assurance
-- Software Development
-- Test Automation
-- Collaboration
-- Continuous Learning
-
-📚 **Certifications**:
-- ISTQB Foundation Level from Bisics to certificate ITI Platform
-- Manual Testing training with QAcart
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/wagih-soudi-070233361/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wagih Soudi" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## Get in Touch
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/playwright.svg" alt="playwright" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
-📧 Email: `Wagehmohamedsoudi1@gmail.com`
+---
 
---- 
-
-## Connect with Wagih Soudi
-
-🔗 [GitHub](https://github.com/wagihsoudi)
-
-Let's code, collaborate, and create together! 🚀
-
---- 
+### 📊 Certifications
+- ISTQB Foundation Level - ITI Platform
+- Manual Testing - QAcart
 
 Remember, GitHub is not just a platform for code, it's a space for connecting like-minded individuals, sharing knowledge, and growing together. Keep exploring, keep coding, and never stop learning! 🌟
