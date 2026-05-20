@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wagih Soudi Wagih soudi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">QA Specialist
+
+</h3>
 
 - 🔭 I’m currently working on **Llumen**
 
@@ -10,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wagih soudi‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wagih soudi‏" height="30" width="40" /></a>
-<a href="https://fb.com/wagih soudi‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wagih soudi‏" height="30" width="40" /></a>
+<a href="https://fb.com/wagih soudi‏" target="blank"><img align="center" src="htps://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wagih soudi‏" height="30" width="40" /></a>
 <a href="https://instagram.com/wagih soudi‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wagih soudi‏" height="30" width="40" /></a>
 </p>
 
